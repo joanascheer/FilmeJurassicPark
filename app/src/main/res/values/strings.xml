@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Filme</string>
+    <string name="image_jurassic_park_description">Fundo avermelhado com um esqueleto de dinossauro
+    ao centro na cor preta. No centro o nome Jurassic Park e de fundo, sombras de vegetação e de um
+    braquiossauro comendo folhas em uma árvore.</string>
+    <string name="movie_name">Jurassic Park</string>
+</resources>
